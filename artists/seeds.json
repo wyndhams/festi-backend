@@ -1,0 +1,16 @@
+[
+{
+  "model": "artists.artist",
+  "pk": 1,
+  "fields": {
+    "name": "Chet Baker"
+  }
+},
+{
+  "model": "artists.artist",
+  "pk": 2,
+  "fields": {
+    "name": "Vince Watson"
+  }
+}
+]
